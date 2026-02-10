@@ -26,6 +26,11 @@ To enable stakeholders to:
 * Where are customers being underserved?
 
 ---
+## Dashboard Preview
+<img width="1917" height="1005" alt="dashboard screenshots" src="https://github.com/user-attachments/assets/8283abac-89d5-480c-b7b0-143ea62a2956" />
+
+
+---
 
 ## Dashboard Highlights
 
